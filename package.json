@@ -1,0 +1,24 @@
+{
+  "name": "collection-course",
+  "version": "1.0.0",
+  "description": "A simple localstorage collections library.",
+  "main": "collection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codixir/collection-course.git"
+  },
+  "keywords": [
+    "localstorage",
+    "javascript",
+    "collections"
+  ],
+  "author": "mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codixir/collection-course/issues"
+  },
+  "homepage": "https://github.com/codixir/collection-course#readme"
+}
